@@ -1,0 +1,897 @@
+<list>
+  <trade>
+    <value>39.5</value>
+    <quantity>1076</quantity>
+    <date>
+      <time>1325985700940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>40.45</value>
+    <quantity>1033</quantity>
+    <date reference="../../trade/date"/>
+  </trade>
+  <trade>
+    <value>39.82</value>
+    <quantity>1118</quantity>
+    <date reference="../../trade/date"/>
+  </trade>
+  <trade>
+    <value>39.21</value>
+    <quantity>1144</quantity>
+    <date reference="../../trade/date"/>
+  </trade>
+  <trade>
+    <value>39.86</value>
+    <quantity>1081</quantity>
+    <date reference="../../trade/date"/>
+  </trade>
+  <trade>
+    <value>39.06</value>
+    <quantity>1166</quantity>
+    <date reference="../../trade/date"/>
+  </trade>
+  <trade>
+    <value>38.22</value>
+    <quantity>1188</quantity>
+    <date reference="../../trade/date"/>
+  </trade>
+  <trade>
+    <value>37.58</value>
+    <quantity>1138</quantity>
+    <date reference="../../trade/date"/>
+  </trade>
+  <trade>
+    <value>37.11</value>
+    <quantity>1046</quantity>
+    <date reference="../../trade/date"/>
+  </trade>
+  <trade>
+    <value>37.32</value>
+    <quantity>990</quantity>
+    <date reference="../../trade/date"/>
+  </trade>
+  <trade>
+    <value>37.62</value>
+    <quantity>1023</quantity>
+    <date>
+      <time>1326072100940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>38.37</value>
+    <quantity>1076</quantity>
+    <date reference="../../trade[11]/date"/>
+  </trade>
+  <trade>
+    <value>38.72</value>
+    <quantity>1162</quantity>
+    <date reference="../../trade[11]/date"/>
+  </trade>
+  <trade>
+    <value>38.14</value>
+    <quantity>1105</quantity>
+    <date reference="../../trade[11]/date"/>
+  </trade>
+  <trade>
+    <value>37.28</value>
+    <quantity>1041</quantity>
+    <date reference="../../trade[11]/date"/>
+  </trade>
+  <trade>
+    <value>37.96</value>
+    <quantity>1031</quantity>
+    <date>
+      <time>1326158500940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>38.1</value>
+    <quantity>1081</quantity>
+    <date reference="../../trade[16]/date"/>
+  </trade>
+  <trade>
+    <value>38.43</value>
+    <quantity>1002</quantity>
+    <date reference="../../trade[16]/date"/>
+  </trade>
+  <trade>
+    <value>39.41</value>
+    <quantity>953</quantity>
+    <date reference="../../trade[16]/date"/>
+  </trade>
+  <trade>
+    <value>39.8</value>
+    <quantity>896</quantity>
+    <date reference="../../trade[16]/date"/>
+  </trade>
+  <trade>
+    <value>38.8</value>
+    <quantity>993</quantity>
+    <date reference="../../trade[16]/date"/>
+  </trade>
+  <trade>
+    <value>38.98</value>
+    <quantity>920</quantity>
+    <date reference="../../trade[16]/date"/>
+  </trade>
+  <trade>
+    <value>38.86</value>
+    <quantity>969</quantity>
+    <date>
+      <time>1326244900940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>39.61</value>
+    <quantity>895</quantity>
+    <date reference="../../trade[23]/date"/>
+  </trade>
+  <trade>
+    <value>39.26</value>
+    <quantity>871</quantity>
+    <date reference="../../trade[23]/date"/>
+  </trade>
+  <trade>
+    <value>39.76</value>
+    <quantity>816</quantity>
+    <date reference="../../trade[23]/date"/>
+  </trade>
+  <trade>
+    <value>40.71</value>
+    <quantity>805</quantity>
+    <date reference="../../trade[23]/date"/>
+  </trade>
+  <trade>
+    <value>41.54</value>
+    <quantity>877</quantity>
+    <date reference="../../trade[23]/date"/>
+  </trade>
+  <trade>
+    <value>42.38</value>
+    <quantity>932</quantity>
+    <date>
+      <time>1326331300940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>42.39</value>
+    <quantity>988</quantity>
+    <date reference="../../trade[29]/date"/>
+  </trade>
+  <trade>
+    <value>41.44</value>
+    <quantity>1025</quantity>
+    <date reference="../../trade[29]/date"/>
+  </trade>
+  <trade>
+    <value>42.15</value>
+    <quantity>1114</quantity>
+    <date reference="../../trade[29]/date"/>
+  </trade>
+  <trade>
+    <value>41.73</value>
+    <quantity>1074</quantity>
+    <date>
+      <time>1326417700940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>42.0</value>
+    <quantity>974</quantity>
+    <date reference="../../trade[33]/date"/>
+  </trade>
+  <trade>
+    <value>42.82</value>
+    <quantity>1018</quantity>
+    <date reference="../../trade[33]/date"/>
+  </trade>
+  <trade>
+    <value>43.08</value>
+    <quantity>922</quantity>
+    <date>
+      <time>1326504100940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>42.96</value>
+    <quantity>937</quantity>
+    <date reference="../../trade[36]/date"/>
+  </trade>
+  <trade>
+    <value>42.9</value>
+    <quantity>889</quantity>
+    <date reference="../../trade[36]/date"/>
+  </trade>
+  <trade>
+    <value>43.11</value>
+    <quantity>921</quantity>
+    <date reference="../../trade[36]/date"/>
+  </trade>
+  <trade>
+    <value>43.66</value>
+    <quantity>1002</quantity>
+    <date reference="../../trade[36]/date"/>
+  </trade>
+  <trade>
+    <value>44.419999999999995</value>
+    <quantity>937</quantity>
+    <date reference="../../trade[36]/date"/>
+  </trade>
+  <trade>
+    <value>44.599999999999994</value>
+    <quantity>1023</quantity>
+    <date reference="../../trade[36]/date"/>
+  </trade>
+  <trade>
+    <value>43.92999999999999</value>
+    <quantity>964</quantity>
+    <date reference="../../trade[36]/date"/>
+  </trade>
+  <trade>
+    <value>44.28999999999999</value>
+    <quantity>913</quantity>
+    <date>
+      <time>1326590500940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>44.419999999999995</value>
+    <quantity>1002</quantity>
+    <date reference="../../trade[44]/date"/>
+  </trade>
+  <trade>
+    <value>44.82999999999999</value>
+    <quantity>981</quantity>
+    <date reference="../../trade[44]/date"/>
+  </trade>
+  <trade>
+    <value>45.14999999999999</value>
+    <quantity>900</quantity>
+    <date>
+      <time>1326676900940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>44.21999999999999</value>
+    <quantity>974</quantity>
+    <date reference="../../trade[47]/date"/>
+  </trade>
+  <trade>
+    <value>44.209999999999994</value>
+    <quantity>1061</quantity>
+    <date reference="../../trade[47]/date"/>
+  </trade>
+  <trade>
+    <value>44.00999999999999</value>
+    <quantity>1112</quantity>
+    <date reference="../../trade[47]/date"/>
+  </trade>
+  <trade>
+    <value>44.099999999999994</value>
+    <quantity>1148</quantity>
+    <date reference="../../trade[47]/date"/>
+  </trade>
+  <trade>
+    <value>43.60999999999999</value>
+    <quantity>1197</quantity>
+    <date reference="../../trade[47]/date"/>
+  </trade>
+  <trade>
+    <value>42.86999999999999</value>
+    <quantity>1234</quantity>
+    <date>
+      <time>1326763300940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>42.23999999999999</value>
+    <quantity>1208</quantity>
+    <date reference="../../trade[53]/date"/>
+  </trade>
+  <trade>
+    <value>41.76999999999999</value>
+    <quantity>1299</quantity>
+    <date reference="../../trade[53]/date"/>
+  </trade>
+  <trade>
+    <value>42.00999999999999</value>
+    <quantity>1306</quantity>
+    <date>
+      <time>1326849700940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>42.11999999999999</value>
+    <quantity>1320</quantity>
+    <date reference="../../trade[56]/date"/>
+  </trade>
+  <trade>
+    <value>41.64999999999999</value>
+    <quantity>1339</quantity>
+    <date>
+      <time>1326936100940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>41.31999999999999</value>
+    <quantity>1286</quantity>
+    <date reference="../../trade[58]/date"/>
+  </trade>
+  <trade>
+    <value>42.00999999999999</value>
+    <quantity>1187</quantity>
+    <date reference="../../trade[58]/date"/>
+  </trade>
+  <trade>
+    <value>42.79999999999999</value>
+    <quantity>1266</quantity>
+    <date reference="../../trade[58]/date"/>
+  </trade>
+  <trade>
+    <value>43.26999999999999</value>
+    <quantity>1265</quantity>
+    <date reference="../../trade[58]/date"/>
+  </trade>
+  <trade>
+    <value>42.40999999999999</value>
+    <quantity>1253</quantity>
+    <date reference="../../trade[58]/date"/>
+  </trade>
+  <trade>
+    <value>42.319999999999986</value>
+    <quantity>1240</quantity>
+    <date reference="../../trade[58]/date"/>
+  </trade>
+  <trade>
+    <value>41.389999999999986</value>
+    <quantity>1157</quantity>
+    <date reference="../../trade[58]/date"/>
+  </trade>
+  <trade>
+    <value>42.249999999999986</value>
+    <quantity>1154</quantity>
+    <date>
+      <time>1327022500940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>42.19999999999999</value>
+    <quantity>1121</quantity>
+    <date reference="../../trade[66]/date"/>
+  </trade>
+  <trade>
+    <value>41.89999999999999</value>
+    <quantity>1058</quantity>
+    <date reference="../../trade[66]/date"/>
+  </trade>
+  <trade>
+    <value>41.11999999999999</value>
+    <quantity>1087</quantity>
+    <date reference="../../trade[66]/date"/>
+  </trade>
+  <trade>
+    <value>40.28999999999999</value>
+    <quantity>1064</quantity>
+    <date reference="../../trade[66]/date"/>
+  </trade>
+  <trade>
+    <value>39.57999999999999</value>
+    <quantity>1044</quantity>
+    <date reference="../../trade[66]/date"/>
+  </trade>
+  <trade>
+    <value>39.18999999999999</value>
+    <quantity>966</quantity>
+    <date reference="../../trade[66]/date"/>
+  </trade>
+  <trade>
+    <value>38.54999999999999</value>
+    <quantity>924</quantity>
+    <date>
+      <time>1327108900940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>38.30999999999999</value>
+    <quantity>955</quantity>
+    <date reference="../../trade[73]/date"/>
+  </trade>
+  <trade>
+    <value>38.02999999999999</value>
+    <quantity>1016</quantity>
+    <date>
+      <time>1327195300940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>38.179999999999986</value>
+    <quantity>1105</quantity>
+    <date reference="../../trade[75]/date"/>
+  </trade>
+  <trade>
+    <value>37.819999999999986</value>
+    <quantity>1105</quantity>
+    <date reference="../../trade[75]/date"/>
+  </trade>
+  <trade>
+    <value>37.899999999999984</value>
+    <quantity>1150</quantity>
+    <date reference="../../trade[75]/date"/>
+  </trade>
+  <trade>
+    <value>36.899999999999984</value>
+    <quantity>1210</quantity>
+    <date>
+      <time>1327281700940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>37.48999999999999</value>
+    <quantity>1143</quantity>
+    <date reference="../../trade[79]/date"/>
+  </trade>
+  <trade>
+    <value>37.95999999999999</value>
+    <quantity>1174</quantity>
+    <date reference="../../trade[79]/date"/>
+  </trade>
+  <trade>
+    <value>38.19999999999999</value>
+    <quantity>1235</quantity>
+    <date reference="../../trade[79]/date"/>
+  </trade>
+  <trade>
+    <value>37.749999999999986</value>
+    <quantity>1266</quantity>
+    <date reference="../../trade[79]/date"/>
+  </trade>
+  <trade>
+    <value>37.43999999999998</value>
+    <quantity>1280</quantity>
+    <date reference="../../trade[79]/date"/>
+  </trade>
+  <trade>
+    <value>37.43999999999998</value>
+    <quantity>1339</quantity>
+    <date reference="../../trade[79]/date"/>
+  </trade>
+  <trade>
+    <value>37.499999999999986</value>
+    <quantity>1244</quantity>
+    <date reference="../../trade[79]/date"/>
+  </trade>
+  <trade>
+    <value>37.45999999999999</value>
+    <quantity>1284</quantity>
+    <date reference="../../trade[79]/date"/>
+  </trade>
+  <trade>
+    <value>36.95999999999999</value>
+    <quantity>1256</quantity>
+    <date reference="../../trade[79]/date"/>
+  </trade>
+  <trade>
+    <value>36.52999999999999</value>
+    <quantity>1309</quantity>
+    <date reference="../../trade[79]/date"/>
+  </trade>
+  <trade>
+    <value>36.48999999999999</value>
+    <quantity>1261</quantity>
+    <date>
+      <time>1327368100940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>35.68999999999999</value>
+    <quantity>1225</quantity>
+    <date reference="../../trade[90]/date"/>
+  </trade>
+  <trade>
+    <value>35.64999999999999</value>
+    <quantity>1237</quantity>
+    <date reference="../../trade[90]/date"/>
+  </trade>
+  <trade>
+    <value>35.36999999999999</value>
+    <quantity>1188</quantity>
+    <date reference="../../trade[90]/date"/>
+  </trade>
+  <trade>
+    <value>35.27999999999999</value>
+    <quantity>1138</quantity>
+    <date reference="../../trade[90]/date"/>
+  </trade>
+  <trade>
+    <value>34.80999999999999</value>
+    <quantity>1181</quantity>
+    <date reference="../../trade[90]/date"/>
+  </trade>
+  <trade>
+    <value>34.02999999999999</value>
+    <quantity>1262</quantity>
+    <date reference="../../trade[90]/date"/>
+  </trade>
+  <trade>
+    <value>34.02999999999999</value>
+    <quantity>1323</quantity>
+    <date>
+      <time>1327454500940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>34.249999999999986</value>
+    <quantity>1319</quantity>
+    <date reference="../../trade[97]/date"/>
+  </trade>
+  <trade>
+    <value>33.84999999999999</value>
+    <quantity>1309</quantity>
+    <date reference="../../trade[97]/date"/>
+  </trade>
+  <trade>
+    <value>34.579999999999984</value>
+    <quantity>1289</quantity>
+    <date reference="../../trade[97]/date"/>
+  </trade>
+  <trade>
+    <value>34.93999999999998</value>
+    <quantity>1219</quantity>
+    <date reference="../../trade[97]/date"/>
+  </trade>
+  <trade>
+    <value>34.649999999999984</value>
+    <quantity>1189</quantity>
+    <date reference="../../trade[97]/date"/>
+  </trade>
+  <trade>
+    <value>34.45999999999999</value>
+    <quantity>1150</quantity>
+    <date reference="../../trade[97]/date"/>
+  </trade>
+  <trade>
+    <value>34.039999999999985</value>
+    <quantity>1225</quantity>
+    <date>
+      <time>1327540900940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>34.509999999999984</value>
+    <quantity>1141</quantity>
+    <date reference="../../trade[104]/date"/>
+  </trade>
+  <trade>
+    <value>34.58999999999998</value>
+    <quantity>1240</quantity>
+    <date reference="../../trade[104]/date"/>
+  </trade>
+  <trade>
+    <value>34.20999999999998</value>
+    <quantity>1172</quantity>
+    <date reference="../../trade[104]/date"/>
+  </trade>
+  <trade>
+    <value>34.04999999999998</value>
+    <quantity>1159</quantity>
+    <date>
+      <time>1327627300940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>33.40999999999998</value>
+    <quantity>1080</quantity>
+    <date reference="../../trade[108]/date"/>
+  </trade>
+  <trade>
+    <value>33.58999999999998</value>
+    <quantity>1139</quantity>
+    <date reference="../../trade[108]/date"/>
+  </trade>
+  <trade>
+    <value>32.97999999999998</value>
+    <quantity>1112</quantity>
+    <date reference="../../trade[108]/date"/>
+  </trade>
+  <trade>
+    <value>32.819999999999986</value>
+    <quantity>1057</quantity>
+    <date reference="../../trade[108]/date"/>
+  </trade>
+  <trade>
+    <value>33.19999999999999</value>
+    <quantity>1010</quantity>
+    <date reference="../../trade[108]/date"/>
+  </trade>
+  <trade>
+    <value>33.639999999999986</value>
+    <quantity>1046</quantity>
+    <date>
+      <time>1327713700940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>33.83999999999999</value>
+    <quantity>948</quantity>
+    <date reference="../../trade[114]/date"/>
+  </trade>
+  <trade>
+    <value>33.00999999999999</value>
+    <quantity>997</quantity>
+    <date reference="../../trade[114]/date"/>
+  </trade>
+  <trade>
+    <value>32.78999999999999</value>
+    <quantity>921</quantity>
+    <date reference="../../trade[114]/date"/>
+  </trade>
+  <trade>
+    <value>32.57999999999999</value>
+    <quantity>897</quantity>
+    <date reference="../../trade[114]/date"/>
+  </trade>
+  <trade>
+    <value>31.929999999999993</value>
+    <quantity>858</quantity>
+    <date reference="../../trade[114]/date"/>
+  </trade>
+  <trade>
+    <value>32.68999999999999</value>
+    <quantity>815</quantity>
+    <date>
+      <time>1327800100940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>33.50999999999999</value>
+    <quantity>838</quantity>
+    <date reference="../../trade[120]/date"/>
+  </trade>
+  <trade>
+    <value>33.46999999999999</value>
+    <quantity>926</quantity>
+    <date reference="../../trade[120]/date"/>
+  </trade>
+  <trade>
+    <value>33.21999999999999</value>
+    <quantity>847</quantity>
+    <date reference="../../trade[120]/date"/>
+  </trade>
+  <trade>
+    <value>32.85999999999999</value>
+    <quantity>781</quantity>
+    <date reference="../../trade[120]/date"/>
+  </trade>
+  <trade>
+    <value>31.93999999999999</value>
+    <quantity>867</quantity>
+    <date>
+      <time>1327886500940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>32.459999999999994</value>
+    <quantity>770</quantity>
+    <date reference="../../trade[125]/date"/>
+  </trade>
+  <trade>
+    <value>31.529999999999994</value>
+    <quantity>807</quantity>
+    <date reference="../../trade[125]/date"/>
+  </trade>
+  <trade>
+    <value>31.459999999999994</value>
+    <quantity>904</quantity>
+    <date reference="../../trade[125]/date"/>
+  </trade>
+  <trade>
+    <value>31.619999999999994</value>
+    <quantity>880</quantity>
+    <date reference="../../trade[125]/date"/>
+  </trade>
+  <trade>
+    <value>32.49999999999999</value>
+    <quantity>964</quantity>
+    <date reference="../../trade[125]/date"/>
+  </trade>
+  <trade>
+    <value>31.909999999999993</value>
+    <quantity>1033</quantity>
+    <date reference="../../trade[125]/date"/>
+  </trade>
+  <trade>
+    <value>32.13999999999999</value>
+    <quantity>1076</quantity>
+    <date reference="../../trade[125]/date"/>
+  </trade>
+  <trade>
+    <value>32.339999999999996</value>
+    <quantity>1026</quantity>
+    <date reference="../../trade[125]/date"/>
+  </trade>
+  <trade>
+    <value>33.01</value>
+    <quantity>968</quantity>
+    <date>
+      <time>1327972900940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>32.78</value>
+    <quantity>940</quantity>
+    <date reference="../../trade[134]/date"/>
+  </trade>
+  <trade>
+    <value>33.2</value>
+    <quantity>941</quantity>
+    <date reference="../../trade[134]/date"/>
+  </trade>
+  <trade>
+    <value>33.040000000000006</value>
+    <quantity>918</quantity>
+    <date reference="../../trade[134]/date"/>
+  </trade>
+  <trade>
+    <value>33.150000000000006</value>
+    <quantity>947</quantity>
+    <date reference="../../trade[134]/date"/>
+  </trade>
+  <trade>
+    <value>34.03000000000001</value>
+    <quantity>1024</quantity>
+    <date reference="../../trade[134]/date"/>
+  </trade>
+  <trade>
+    <value>33.760000000000005</value>
+    <quantity>1116</quantity>
+    <date reference="../../trade[134]/date"/>
+  </trade>
+  <trade>
+    <value>34.53000000000001</value>
+    <quantity>1206</quantity>
+    <date reference="../../trade[134]/date"/>
+  </trade>
+  <trade>
+    <value>34.96000000000001</value>
+    <quantity>1273</quantity>
+    <date reference="../../trade[134]/date"/>
+  </trade>
+  <trade>
+    <value>34.43000000000001</value>
+    <quantity>1333</quantity>
+    <date>
+      <time>1328059300940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>34.050000000000004</value>
+    <quantity>1325</quantity>
+    <date reference="../../trade[143]/date"/>
+  </trade>
+  <trade>
+    <value>34.540000000000006</value>
+    <quantity>1291</quantity>
+    <date>
+      <time>1328145700940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>34.95</value>
+    <quantity>1282</quantity>
+    <date reference="../../trade[145]/date"/>
+  </trade>
+  <trade>
+    <value>34.31</value>
+    <quantity>1354</quantity>
+    <date>
+      <time>1328232100940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>34.660000000000004</value>
+    <quantity>1313</quantity>
+    <date reference="../../trade[147]/date"/>
+  </trade>
+  <trade>
+    <value>34.85</value>
+    <quantity>1237</quantity>
+    <date reference="../../trade[147]/date"/>
+  </trade>
+  <trade>
+    <value>33.86</value>
+    <quantity>1271</quantity>
+    <date reference="../../trade[147]/date"/>
+  </trade>
+  <trade>
+    <value>33.56</value>
+    <quantity>1238</quantity>
+    <date reference="../../trade[147]/date"/>
+  </trade>
+  <trade>
+    <value>34.370000000000005</value>
+    <quantity>1200</quantity>
+    <date reference="../../trade[147]/date"/>
+  </trade>
+  <trade>
+    <value>34.53</value>
+    <quantity>1269</quantity>
+    <date>
+      <time>1328318500940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>34.18</value>
+    <quantity>1310</quantity>
+    <date>
+      <time>1328404900940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>33.63</value>
+    <quantity>1350</quantity>
+    <date reference="../../trade[154]/date"/>
+  </trade>
+  <trade>
+    <value>32.95</value>
+    <quantity>1285</quantity>
+    <date reference="../../trade[154]/date"/>
+  </trade>
+  <trade>
+    <value>33.870000000000005</value>
+    <quantity>1311</quantity>
+    <date reference="../../trade[154]/date"/>
+  </trade>
+  <trade>
+    <value>34.080000000000005</value>
+    <quantity>1334</quantity>
+    <date>
+      <time>1328491300940</time>
+      <timezone>America/Sao_Paulo</timezone>
+    </date>
+  </trade>
+  <trade>
+    <value>34.900000000000006</value>
+    <quantity>1271</quantity>
+    <date reference="../../trade[158]/date"/>
+  </trade>
+  <trade>
+    <value>35.800000000000004</value>
+    <quantity>1291</quantity>
+    <date reference="../../trade[158]/date"/>
+  </trade>
+  <trade>
+    <value>36.02</value>
+    <quantity>1298</quantity>
+    <date reference="../../trade[158]/date"/>
+  </trade>
+</list>

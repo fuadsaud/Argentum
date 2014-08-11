@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ====================================================================== 
+     Sep 26, 2011 2:47:00 PM                                                        
+
+     project    
+     description
+                   
+     Fuad Saud                                                                
+     ====================================================================== -->
+<project name="Argentum" default="pack">
+
+	<target name="compile" depends="clean">
+		<javac srcdir="src/main/java" destdir="bin">
+			<classpath>
+				<fileset dir="lib">
+					<include name="*.jar" />
+				</fileset>
+			</classpath>
+		</javac>
+	</target>
+
+	<target name="pack" depends="compile">
+		<mkdir dir="jar" />
+		<jar destfile="jar/argentum.jar" basedir="bin" />
+	</target>
+
+	<target name="run" depends="pack">
+		<java classname="argentum.ui.ArgentumUI" fork="true">
+			<classpath>
+				<filelist files="jar/argentum.jar" />
+				<fileset dir="lib">
+					<include name="*.jar" />
+				</fileset>
+			</classpath>
+		</java>
+	</target>
+
+	<target name="clean">
+		<delete dir="bin" />
+		<mkdir dir="bin" />
+	</target>
+</project>
